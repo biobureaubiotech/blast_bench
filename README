@@ -1,0 +1,31 @@
+# Blast Bench
+
+Benchmark BLAST using different FASTA files sizes and threads. Monitor CPU and memory usage during the execution.
+
+Find the optimal values and test it in different computers.
+
+TODO: Run in different aws instances
+
+## Installation
+
+pip install -r requirements.txt
+
+## Usage
+
+cd scripts 
+python runblast.py
+
+## Contributing
+
+
+## History
+
+TODO: Write history
+
+## Credits
+
+Raony Guimarães
+
+## License
+
+BSD 3-Clause

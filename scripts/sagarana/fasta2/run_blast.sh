@@ -1,0 +1,10 @@
+qsub blast_1.sh
+qsub blast_2.sh
+qsub blast_3.sh
+qsub blast_4.sh
+qsub blast_5.sh
+qsub blast_6.sh
+qsub blast_7.sh
+qsub blast_8.sh
+qsub blast_9.sh
+qsub blast_10.sh

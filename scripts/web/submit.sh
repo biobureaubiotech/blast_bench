@@ -1,0 +1,1 @@
+python ncbiblast_urllib3.py -p blastn -D nt -E 1e-5 --email=raonyguimaraes@gmail.com --title=blastnt --outfile=blastoutput.out --sequence=../../input/R_2013_11_30_15_23_49_user_CTL-148-Metagenoma_Mauro_Eduardo2.CTLT_PGM.IonXpress_014_Sem28S2_COI2_18S2_Q20_good.fasta --async
